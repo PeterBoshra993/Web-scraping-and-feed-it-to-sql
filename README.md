@@ -7,8 +7,11 @@
 
 Task
 ----------
+
 Design and create a database for scraping All books for each category using DB Browser for sqllite from this web site (http://books.toscrape.com/)
+
 1- create books & categories table
+
 2- create notebook to scrap data and save data in the database
 
 
